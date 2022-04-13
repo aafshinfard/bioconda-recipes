@@ -32,7 +32,7 @@ requirements:
     - tar
     - bzip2
     - xz
-    - lrzip
+    - lrzip # [linux]
     - zip
     - wget
 
